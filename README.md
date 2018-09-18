@@ -8,5 +8,5 @@ Webapp made with a React/Redux Frontend and Ruby on Rails backend. The purpose o
 ![](dex_gifs/dynamic_search.gif)
 ![](dex_gifs/updating_cards.gif)
 ![](dex_gifs/testing_exercises.gif)
-![](dex_gifs/public_decks.gif)
+![](dex_gifs/public_deck.gif)
 ![](dex_gifs/creating_deck.gif)
